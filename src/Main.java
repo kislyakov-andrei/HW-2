@@ -56,6 +56,5 @@ public class Main {
         timeWork=numberWorkers*timeWorkOneWorker;
         System.out.println("Если в компании работает " + numberWorkers + " человек, то всего " + timeWork + " часов работы может быть поделено между сотрудниками");
 
-
     }
 }
